@@ -2,6 +2,4 @@ Hola este es un nuevo archivo.
 Vamos a hacer un cambio.
 Vamos a agregar una tercer línea.
 Ahora vamos a hacer un cambios.
-
-
-Esto es lo que aparecerá cuando fusionemos las ramas.
+Esta es la rama master
